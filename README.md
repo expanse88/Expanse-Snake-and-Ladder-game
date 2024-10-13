@@ -1,2 +1,2 @@
 # Nahata-Snake-and-Ladder-game
-A snake and Ladder game created by Harshit Nahata
+A snake and Ladder game created by expanse
